@@ -3,6 +3,11 @@
 </h1>
 The ideia behind this app is to promote a healthier routine for those who works on computer, to help improve concentration and promote exercises to keep your body healthy. It was built during the NextLevelWeek provided by Rocketseat.
 
+## Features
+- Pomodoro clock
+- Many exercises for many body parts
+- Level and experience bar 
+
 ## Technologies 👾
 - NextJS
 - TypeScript  
